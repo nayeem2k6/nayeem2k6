@@ -1,8 +1,8 @@
-## Hi there 👋
+
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/2M7rtLk/github-banner.png" alt="Nayeem Babu Banner" />
+  <img src="https://i.ibb.co.com/prfncdf3/huy-hung-trinh-zoy-Bq-T7yt-LU-unsplash.jpg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nayeem Babu</h1>
@@ -60,14 +60,4 @@ Always eager to learn, improve, and take on new challenges.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayeem-babu&show_icons=true&theme=react" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-babu&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-babu&layout=compact&theme=react" />
-</p>
