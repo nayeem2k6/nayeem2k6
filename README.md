@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/prfncdf3/huy-hung-trinh-zoy-Bq-T7yt-LU-unsplash.jpg" />
+  <img src="https://i.ibb.co.com/67sxXSdj/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nayeem Babu</h1>
