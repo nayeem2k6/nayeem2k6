@@ -48,7 +48,7 @@ Always eager to learn, improve, and take on new challenges.
 
 ## 🌐 Social Links
 <p>
-  <a href="https://github.com/nayeem-babu">
+  <a href="https://github.com/nayeem2k6">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://linkedin.com/in/nayeem-babu">
