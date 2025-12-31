@@ -57,20 +57,22 @@ Always eager to learn, improve, and take on new challenges.
 </p>
 
 ---
-🔥 What I'm Up To
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=nayeem-babu&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+    src="https://github-readme-stats.vercel.app/api?username=nayeem2k6&show_icons=true&theme=tokyonight" />
   <img height="165"
-    src="https://github-readme-streak-stats.herokuapp.com?user=nayeem-babu&theme=tokyonight" />
+    src="https://github-readme-streak-stats.herokuapp.com?user=nayeem2k6&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-babu&layout=compact&theme=tokyonight" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem2k6&layout=compact&theme=tokyonight" />
 </p>
+
+
+🔥 What I'm Up To
 
 <p>
   🚀 Working on a blog website for unbiased reviews & latest news.
