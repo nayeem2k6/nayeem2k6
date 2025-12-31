@@ -61,3 +61,17 @@ Always eager to learn, improve, and take on new challenges.
 ## 📊 GitHub Stats
 
 
+
+
+
+
+🔥 What I'm Up To
+🚀 Working on a blog website for unbiased reviews & latest news.
+🏗️ Developing a building management system.
+🔄 Experimenting with TanStack Query for efficient API handling.
+💡 Exploring best practices in full-stack development.
+🛠️ Ski
+
+📍 Location:Dhaka, Bangladesh
+📧 Email: nayeembabu2k6@gmail.com
+📞 Contact: +8801407038855
