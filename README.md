@@ -75,3 +75,42 @@ Always eager to learn, improve, and take on new challenges.
 📍 Location:Dhaka, Bangladesh
 📧 Email: nayeembabu2k6@gmail.com
 📞 Contact: +8801407038855
+
+
+
+
+
+📈 GitHub Analytics
+<div align="center"> <!-- GitHub Stats --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayeem-babu&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" /> <!-- Top Languages --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-babu&layout=compact&theme=radical&langs_count=8&hide_border=true" /></div><div align="center"> <!-- GitHub Streak --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-babu&theme=radical&hide_border=true" alt="GitHub Streak" /></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
