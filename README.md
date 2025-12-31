@@ -58,6 +58,20 @@ Always eager to learn, improve, and take on new challenges.
 
 ---
 🔥 What I'm Up To
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api?username=nayeem-babu&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="165"
+    src="https://github-readme-streak-stats.herokuapp.com?user=nayeem-babu&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-babu&layout=compact&theme=tokyonight" />
+</p>
+
 <p>
   🚀 Working on a blog website for unbiased reviews & latest news.
 🏗️ Developing a building management system.
