@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/qLw3bbSt/Git-Hub-Banner.png" />
+  <img src="https://i.ibb.co.com/67sxXSdj/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" />
 </div>
 
 ###
@@ -67,11 +67,11 @@ I develop robust backend systems using <strong>TypeScript, Node.js, and PostgreS
 
 ## 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piash2k)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piash-islam-2k)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PiashIslam2K)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://)
 
-📍 *Location:* Savar, Dhaka, Bangladesh  
-📧 *Email:* piashislam2k@gmail.com  
-📞 *Contact:* +8801301565464
+📍 *Location:* Jhenaidha, Dhaka, Bangladesh  
+📧 *Email:* nayeembabu2k6@gmail.com  
+📞 *Contact:* +8801407038855
 
