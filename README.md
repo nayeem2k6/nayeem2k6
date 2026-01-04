@@ -48,19 +48,19 @@ I develop robust backend systems using <strong>TypeScript, Node.js, focusing on 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark&hide_border=true" alt=" GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=nayeem2k6&show_icons=true&theme=dark&hide_border=true" alt=" GitHub Stats" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark&hide_border=true" alt="GitHub Streak" />
+      <img src="https://nirzak-streak-stats.vercel.app?user=nayeem2k6&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piash2k&layout=compact&theme=dark&hide_border=true"  alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem2k6&layout=compact&theme=dark&hide_border=true"  alt="Top Languages" />
 </p>
 <p>
-  <img src="https://komarev.com/ghpvc/?username=piash2k&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nayeem2k6&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ## 🌐 Connect with Me
