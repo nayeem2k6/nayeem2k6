@@ -8,8 +8,8 @@
 
 ## 👨‍💻 About Me
 <p align="left">
-I am a skilled web developer with expertise in Tailwind CSS, DaisyUI, JavaScript, React.js, Node.js, TypeScript, PostgreSQL, MongoDB, and Express.js. I focus on building modern, scalable, and user-friendly web applications, ensuring smooth front-end experiences and efficient back-end solutions.<br><br>
-I develop robust backend systems using <strong>TypeScript, Node.js, and PostgreSQL</strong>, focusing on performance, security, and maintainability. Passionate about continuous learning and innovation, I stay updated with the latest technologies to deliver high-quality, scalable, and production-ready web solutions.
+I am a skilled web developer with expertise in Tailwind CSS, DaisyUI, JavaScript, React.js, Node.js, MongoDB, and Express.js. I focus on building modern, scalable, and user-friendly web applications, ensuring smooth front-end experiences and efficient back-end solutions.<br><br>
+I develop robust backend systems using <strong>TypeScript, Node.js, focusing on performance, security, and maintainability. Passionate about continuous learning and innovation, I stay updated with the latest technologies to deliver high-quality, scalable, and production-ready web solutions.
 </p>
 
 - 🌱 Currently exploring *Next.js* and enhancing my *backend development* skills.
@@ -30,13 +30,11 @@ I develop robust backend systems using <strong>TypeScript, Node.js, and PostgreS
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -50,7 +48,7 @@ I develop robust backend systems using <strong>TypeScript, Node.js, and PostgreS
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=piash2k&show_icons=true&theme=dark&hide_border=true" alt="Piash's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark&hide_border=true" alt=" GitHub Stats" />
     </td>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark&hide_border=true" alt="GitHub Streak" />
